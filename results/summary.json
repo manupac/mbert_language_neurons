@@ -1,0 +1,19 @@
+{
+  "tau": 0.4403175,
+  "kept_neurons": 368,
+  "assigned_to_1_language": 98,
+  "assigned_to_0_languages": 270,
+  "assigned_to_more_than_1": 0,
+  "neurons_per_language": {
+    "eng_Latn": 9,
+    "fra_Latn": 14,
+    "deu_Latn": 13,
+    "rus_Cyrl": 9,
+    "cmn_Hans": 8,
+    "yor_Latn": 45
+  },
+  "french_jaccard_without_german": 0.7058823529411765,
+  "r_selected": 0.222,
+  "r_random": 0.069,
+  "r_expected_random_direction": 0.081
+}
